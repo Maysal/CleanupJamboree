@@ -67,9 +67,9 @@ There is so far no order to the list regarding importance.
       - [x] scan (**Mo**)
       - [ ] archive
     - [ ] RegInterviews
-      - [ ] anonymise
-      - [ ] scan  
-      - [ ] archive  
+      - [ ] anonymise (**Jenny**)
+      - [ ] scan (**Jenny**)
+      - [ ] archive (**Jenny**)
   - [ ] archive MemP/HUK w3 reginterviews (**Jenny**)
   - [ ] MemC
     - [x] scan reginterviews  (**Mo**)
