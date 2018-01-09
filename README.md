@@ -18,7 +18,7 @@ There is so far no order to the list regarding importance.
 - [ ] Go through *MemP_w3_current.sav* file and scanned protocols and punch missing data (**Kjersti**)
 - [ ] Punch remaining *MemP w3* questionnaires ()
 - [ ] Score, scan and punch delayed memory (with date) from *MemP W2* (**Line/Hedda**)
-- [ ] RePunch *MemC w1* (**Dani**)
+- [ ] RePunch *MemC w1* (**Dani/May**)
   - [ ] Questinnaires (**Mo** 1/3)
 - [ ] Reys Scoring (**Line/Hedda**)
 - [ ] Bottom drawer in RA's office (Reg drawer)  
